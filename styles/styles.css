@@ -1,7 +1,6 @@
 html{
-    max-width: 1000px;
+    max-width: 1400px;
     background-color: #dddddd;
-
 }
 
 * {
@@ -15,7 +14,7 @@ div {
 
 a {
     font-family: 'Courier New', Courier, monospace;
-    color: #b50000;
+    color: #d50000;
 }
 
 ol {
@@ -35,4 +34,38 @@ li a {
 
 .title {
     text-align: center;
+}
+
+
+/* Recipe Link */
+/* Index special */
+
+.view {
+    margin: 10px 10px;
+    text-align: center;
+}
+
+.heading {
+    color: #bb6060;
+}
+
+.link-body{
+    margin: 0px auto;
+    height: fit-content;
+}
+
+.recipe-link {
+    text-decoration: none;
+    display: inline-block;
+    box-sizing:border-box;
+    margin: 20px;
+    color: #603838;
+    font-weight: 550;
+    background-color: #cccccc;
+    border: 1px solid #e81c1c;
+    min-width: max-content;
+    width: 250px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
 }
