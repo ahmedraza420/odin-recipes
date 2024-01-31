@@ -1,0 +1,38 @@
+html{
+    max-width: 1000px;
+    background-color: #dddddd;
+
+}
+
+* {
+    color: black;
+    font-family: Copperplate, Papyrus, Arial, sans-serif;
+}
+
+div {
+    padding: 10px 20px; 
+}
+
+a {
+    font-family: 'Courier New', Courier, monospace;
+    color: #b50000;
+}
+
+ol {
+    margin: 0px 20px;
+    padding: 10px;
+    font-weight: bold;
+}
+
+ol li {
+    padding: 10px;
+}
+
+li a {
+    font-weight: normal;
+}
+
+
+.title {
+    text-align: center;
+}
